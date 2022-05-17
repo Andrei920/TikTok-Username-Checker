@@ -1,3 +1,5 @@
+CURRENTLY NOT WORKING(I WILL TRY TO FIX IT)
+
 # TikTok-Rare-Username-Checker
 ## A simple basic tool that checks if a TikTok username is taken or not
 
