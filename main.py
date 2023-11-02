@@ -35,7 +35,7 @@ class Checker:
 
 
 if __name__ == '__main__':
-    system('cls && title TikTok Username Checker by Andrei920#2180')
+    system('cls && title TikTok Username Checker by fer#0001')
 
     with open('usernames.txt', encoding='UTF-8') as f:
         username_list = [line.strip() for line in f]
