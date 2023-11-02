@@ -1,4 +1,4 @@
-NOT WORKING ON PYTHON 3.9.13!!!
+NOT WORKING ON PYTHON 3.9.13 or newer!!!
 
 # TikTok-Rare-Username-Checker
 ## A simple basic tool that checks if a TikTok username is taken or not
